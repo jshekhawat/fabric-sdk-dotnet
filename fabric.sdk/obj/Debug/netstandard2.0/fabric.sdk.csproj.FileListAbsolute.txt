@@ -1,9 +1,0 @@
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/bin/Debug/netstandard2.0/fabric.sdk.deps.json
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/bin/Debug/netstandard2.0/fabric.sdk.dll
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/bin/Debug/netstandard2.0/fabric.sdk.pdb
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/obj/Debug/netstandard2.0/fabric.sdk.csprojAssemblyReference.cache
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/obj/Debug/netstandard2.0/fabric.sdk.csproj.CoreCompileInputs.cache
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/obj/Debug/netstandard2.0/fabric.sdk.AssemblyInfoInputs.cache
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/obj/Debug/netstandard2.0/fabric.sdk.AssemblyInfo.cs
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/obj/Debug/netstandard2.0/fabric.sdk.dll
-/home/bowman/src/fabric-sdk-dotnet/fabric.sdk/obj/Debug/netstandard2.0/fabric.sdk.pdb
