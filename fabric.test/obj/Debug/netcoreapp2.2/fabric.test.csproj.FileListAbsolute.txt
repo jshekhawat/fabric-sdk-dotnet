@@ -1,0 +1,14 @@
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/bin/Debug/netcoreapp2.2/fabric.test.deps.json
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/bin/Debug/netcoreapp2.2/fabric.test.runtimeconfig.json
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/bin/Debug/netcoreapp2.2/fabric.test.runtimeconfig.dev.json
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/bin/Debug/netcoreapp2.2/fabric.test.dll
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/bin/Debug/netcoreapp2.2/fabric.test.pdb
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/bin/Debug/netcoreapp2.2/fabric.sdk.dll
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/bin/Debug/netcoreapp2.2/fabric.sdk.pdb
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/obj/Debug/netcoreapp2.2/fabric.test.csprojAssemblyReference.cache
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/obj/Debug/netcoreapp2.2/fabric.test.csproj.CoreCompileInputs.cache
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/obj/Debug/netcoreapp2.2/fabric.test.AssemblyInfoInputs.cache
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/obj/Debug/netcoreapp2.2/fabric.test.AssemblyInfo.cs
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/obj/Debug/netcoreapp2.2/fabric.test.csproj.CopyComplete
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/obj/Debug/netcoreapp2.2/fabric.test.dll
+/home/bowman/src/fabric-sdk-dotnet/fabric.test/obj/Debug/netcoreapp2.2/fabric.test.pdb
